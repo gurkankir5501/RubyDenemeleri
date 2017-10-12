@@ -1,0 +1,1 @@
+puts " merhaba gürkan"
